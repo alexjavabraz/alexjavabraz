@@ -1,5 +1,5 @@
 # Alex Braz
-## _Tech Leader, Sr Engineer, Blockchain Engineer, Open Finance, Instant Payments_
+## _CTO, Tech Leader, Sr Engineer, Blockchain Engineer, Open Finance, Instant Payments_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://alexjavabraz.github.io/)
 
