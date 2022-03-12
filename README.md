@@ -20,6 +20,9 @@ Some projects what i've worked on:
 | Flutter | [Flutter Bank App - Private][PlOd] |
 | Go Lang | [Simple API][PlMe] |
 | Rust | [Stress Test Application][PlGa] |
+| Java | [Simple ERP][PlGb] |
+| Java | [Spring Boot Template] [PlGc] |
+| Java | [Blank API Template] [PlGd] |
 
 ## Features
 
@@ -57,8 +60,8 @@ I have some projects in gitlab, but these projects are private projects.
  	<a href="https://blogjavabraz.blogspot.com/" target="_blank"><img src="hhttps://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
 </div>
   
-## Donations
-<img src="https://github.com/alexjavabraz/alexjavabraz/blob/main/donation.png" />
+## :sparkling_heart: Support the project
+  <img src="https://github.com/alexjavabraz/alexjavabraz/blob/main/donation.png" />
 
 ## License
 
@@ -88,4 +91,7 @@ MIT
    [PlOd]: <https://github.com/alexjavabraz/mobile_app_flutter/blob/main/README.md>
    [PlMe]: <https://github.com/alexjavabraz/api_go/blob/master/README.md>
    [PlGa]: <https://github.com/alexjavabraz/stressTestApi>
+   [PlGb]: <https://github.com/alexjavabraz/jpme>
+   [PlGc]: <https://github.com/alexjavabraz/spring-boot-angular-example>
+   [PlGd]: <https://github.com/alexjavabraz/spring-boot-angular-example>
 
