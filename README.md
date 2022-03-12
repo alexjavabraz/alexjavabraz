@@ -22,7 +22,7 @@ Some projects what i've worked on:
 | Rust | [Stress Test Application][PlGa] |
 | Java | [Simple ERP][PlGb] |
 | Java | [Spring Boot Template] [PlGc] |
-| Java | [Blank API Template] [PlGd] |
+| Java | [Complete Java Template with log, docker, etc] [PlGd] |
 
 ## Features
 
@@ -93,5 +93,5 @@ MIT
    [PlGa]: <https://github.com/alexjavabraz/stressTestApi>
    [PlGb]: <https://github.com/alexjavabraz/jpme>
    [PlGc]: <https://github.com/alexjavabraz/spring-boot-angular-example>
-   [PlGd]: <https://github.com/alexjavabraz/spring-boot-angular-example>
+   [PlGd]: <https://github.com/alexjavabraz/api-java-template/blob/main/README.md>
 
