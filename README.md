@@ -21,8 +21,8 @@ Some projects what i've worked on:
 | Go Lang | [Simple API][PlMe] |
 | Rust | [Stress Test Application][PlGa] |
 | Java | [Simple ERP][PlGb] |
-| Java | [Spring Boot Template] [PlGc] |
-| Kotlin | [Complete Webflux Template with log, docker, etc] [PlGd] |
+| Java | [Spring Boot Template][PlGc] |
+| Kotlin | [Complete Webflux Template with log, docker, etc][PlGd] |
 
 ## Features
 
