@@ -5,6 +5,9 @@
 
 Currently im working with Brazilian Open Finance, Instant Payments and Blockchain.
 
+## Contributions
+![snake gif](https://github.com/alexjavabraz/alexjavabraz/blob/output/github-contribution-grid-snake.gif)
+
 ## Tech
 
 Some projects what i've worked on:
