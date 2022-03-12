@@ -22,7 +22,7 @@ Some projects what i've worked on:
 | Rust | [Stress Test Application][PlGa] |
 | Java | [Simple ERP][PlGb] |
 | Java | [Spring Boot Template] [PlGc] |
-| Java | [Complete Java Template with log, docker, etc] [PlGd] |
+| Kotlin | [Complete Webflux Template with log, docker, etc] [PlGd] |
 
 ## Features
 
