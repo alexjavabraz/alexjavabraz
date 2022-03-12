@@ -56,6 +56,13 @@ I have some projects in gitlab, but these projects are private projects.
   <a href="https://www.linkedin.com/in/alexjavabraz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  	<a href="https://blogjavabraz.blogspot.com/" target="_blank"><img src="hhttps://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
 </div>
+  
+## Donations
+  <form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="Q3TT9VC6ZYQZS" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 ## License
 
