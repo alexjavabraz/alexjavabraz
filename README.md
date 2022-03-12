@@ -10,7 +10,7 @@ Currently im working with Brazilian Open Finance, Instant Payments and Blockchai
 
 ## Tech
 
-Some projects what i've worked on:
+Some open source projects for you, enjoy:
 
 | Language | Type | 
 | ------ | ------ |
