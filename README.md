@@ -33,7 +33,7 @@ Some open source projects for you, enjoy:
 - Documentation in README 
 
 I have some projects in gitlab, but these projects are private projects.
-  <iframe src="https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" height="400"></iframe>
+  ![Stackoverflow stats](https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
 
 <div align="center">
 
