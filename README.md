@@ -37,7 +37,7 @@ I have some projects in gitlab, but these projects are private projects.
 
 <div align="center">
 
-  <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <a href="https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" target="_blank" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjavabraz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
