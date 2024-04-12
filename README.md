@@ -35,6 +35,8 @@ Some open source projects for you, enjoy:
 I have some projects in gitlab, but these projects are private projects.
 
 <div align="center">
+  <iframe src="https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" height="400"></iframe>
+
   <a href="https://github.com/alexjavabraz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjavabraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjavabraz&layout=compact&langs_count=7&theme=dracula"/>
