@@ -15,7 +15,7 @@ Some open source projects for you, enjoy:
 | Language | Type | 
 | ------ | ------ |
 | Java | [Micronaut - Public][PlDb] |
-| Flutter | [Micronaut - Public][PlMW] |
+| Flutter | [RootstockWallet - TESNET ONLY - Public][PlMW] |
 | Node | [Ethereum Smart Contract Interactions - Private][PlGh] |
 | Java | [Hedera Smart Contract Interactions - Public][PlGd] |
 | Flutter | [Flutter Bank App - Private][PlOd] |
