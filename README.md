@@ -15,6 +15,7 @@ Some open source projects for you, enjoy:
 | Language | Type | 
 | ------ | ------ |
 | Java | [Micronaut - Public][PlDb] |
+| Flutter | [Micronaut - Public][PlMW] |
 | Node | [Ethereum Smart Contract Interactions - Private][PlGh] |
 | Java | [Hedera Smart Contract Interactions - Public][PlGd] |
 | Flutter | [Flutter Bank App - Private][PlOd] |
@@ -98,4 +99,5 @@ MIT
    [PlGb]: <https://github.com/alexjavabraz/jpme>
    [PlGc]: <https://github.com/alexjavabraz/spring-boot-angular-example>
    [PlGd]: <https://github.com/alexjavabraz/api-java-template/blob/main/README.md>
+   [PlMW]: <https://github.com/financial-bjbraz/rootstock_wallet>
 
